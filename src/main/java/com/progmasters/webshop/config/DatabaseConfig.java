@@ -38,7 +38,7 @@ public class DatabaseConfig {
         dataSource.setDriverClassName("com.mysql.jdbc.Driver");
         dataSource.setUrl("jdbc:mysql://localhost:3306/webshop_react");
         dataSource.setUsername("root");
-        dataSource.setPassword("test123");
+        dataSource.setPassword("Imre1111");
 
         return dataSource;
     }
