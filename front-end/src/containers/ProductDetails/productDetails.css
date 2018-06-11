@@ -1,0 +1,12 @@
+h4 {
+    text-align: left;
+}
+
+.product-description-container {
+    margin: 0 auto;
+    min-height: 80px;
+    width: 50%;
+    padding: 20px;
+    background-color: #eeeeee;
+    border: 1px solid #999999;
+}

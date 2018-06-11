@@ -1,0 +1,15 @@
+tr {
+    width: 100%;
+}
+
+.comment-author {
+    width: 15%
+}
+
+.comment-text {
+    width: 70%
+}
+
+.comment-createdAt {
+    width: 15%;
+}

@@ -1,0 +1,20 @@
+.my-table {
+    width: 60%;
+}
+
+td {
+    vertical-align: middle !important;
+}
+
+.name-column {
+    width: 40%;
+}
+
+.price-column, .amount-column, .button-column {
+    width: 20%;
+    text-align: center;
+}
+
+.my-small-button {
+    width: 50%;
+}
